@@ -1,2 +1,2 @@
 # lekcje
-html and python projects for school :)
+HTML and python projects for school :)
